@@ -3,7 +3,7 @@
 """
 Created on Mon Jun  1 18:12:06 2020
 
-@author: muqrizdevice
+
 """
 import tweepy
 
